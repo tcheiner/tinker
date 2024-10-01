@@ -30,166 +30,51 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/tcheiner/tinker">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
-
   <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+ 
+   
   </p>
 </div>
 
+<!-- Projects -->
+## Projects
 
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+[![Manaburn][manaburn-screenshot]](https://app.manaburn.gg/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+## Content
 
-### Built With
-
-* [![Next][Next.js]][Next-url]
+(<a href="http://meme.manaburn.gg">ManaBurn Meme Generator</a>)
+## Built With:
+* [![Node][Node.js]][Node-url]
 * [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![Typescript][Typescript.js]][Typescript-url]
+* [![Python][Python]][Python-url]
+* [![AWS.CloudFormation][AWS.CloudFormation]][AWS-CloudFormation-url]
+* [![AWS.Amplify][AWS.Amplify]][AWS-Amplify-url]
+* [![AWS.S3][AWS.S3]][AWS-S3-url]
+* [![AWS.CloudFront][AWS.CloudFront]][AWS-CloudFront-url]
+* [![AWS.Serverless.Lambda][AWS.Serverless.Lambda]][AWS-Serverless-Lambda-url]
+* [![AWW.DynamoDB][AWS.DynamoDB]][AWS-DynamoDB-url]
+* [![AWS.CloudWatch][AWS.CloudWatch]][AWS-CloudWatch-url]
+* [![OpenAI][OpenAI.GPT4]][OpenAI-url]
+* [![Langchain][Langchain]][Langchain-url]
+* [![Github.Actions][Github.Actions]][GitHub-Actions-url]
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-5. Change git remote url to avoid accidental pushes to base project
-   ```sh
-   git remote set-url origin github_username/repo_name
-   git remote -v # confirm the changes
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Top contributors:
 
-<a href="https://github.com/github_username/repo_name/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=github_username/repo_name" alt="contrib.rocks image" />
+<a href="https://github.com/tcheiner/tinker/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=tcheiner/tinker" alt="contrib.rocks image" />
 </a>
 
 
@@ -206,53 +91,61 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Your Name - [@tcheiner](https://twitter.com/tcheiner) - tcheiner@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
+Project Link: [https://github.com/tcheiner/tinker](https://github.com/tcheiner/tinker)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/tcheiner/tinker.svg?style=for-the-badge
+[contributors-url]: https://github.com/tcheiner/tinker/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/tcheiner/tinker.svg?style=for-the-badge
+[forks-url]: https://github.com/tcheiner/tinker/network/members
+[stars-shield]: https://img.shields.io/github/stars/tcheiner/tinker.svg?style=for-the-badge
+[stars-url]: https://github.com/tcheiner/tinker/stargazers
+[issues-shield]: https://img.shields.io/github/issues/tcheiner/tinker.svg?style=for-the-badge
+[issues-url]: https://github.com/tcheiner/tinker/issues
+[license-shield]: https://img.shields.io/github/license/tcheiner/tinker.svg?style=for-the-badge
+[license-url]: https://github.com/tcheiner/tinker/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
+[linkedin-url]: https://linkedin.com/in/tcheiner
+[manaburn-screenshot]: images/meme.manaburn.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+[Node.js]: https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white
+[Node-url]: https://nodejs.org
+[CSS3]:https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white
+[CSS3-url]: https://www.w3.org/Style/CSS/Overview.en.html
+[React.js]: https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB
+[React-url]: https://react.dev/
+[Typescript.js]: https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white
+[Typescript-url]: https://www.typescriptlang.org/
+[Python]:https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white
+[Python-url]: https://python.org/
+[AWS.CloudFormation]: https://img.shields.io/badge/Amazon_AWS_CloudFormation-232F3E?style=flat&logo=amazon-web-services&logoColor=white
+[AWS-CloudFormation-url]: https://aws.amazon.com/cloudformation/
+[AWS.Amplify]: https://img.shields.io/badge/Amazon_AWS_Amplify-232F3E?style=flat&logo=amazon-web-services&logoColor=white
+[AWS-Amplify-url]: https://aws.amazon.com/amplify/
+[AWS.S3]: https://img.shields.io/badge/Amazon_AWS_S3-232F3E?style=flat&logo=amazon-web-services&logoColor=white
+[AWS-S3-url]: https://aws.amazon.com/pm/serv-s3/?gclid=EAIaIQobChMItNqeybvtiAMVj5KDBx1VNSdsEAAYASAAEgLFR_D_BwE&trk=8e8ce528-4bc8-47d6-b386-9a572866c6d1&sc_channel=ps&ef_id=EAIaIQobChMItNqeybvtiAMVj5KDBx1VNSdsEAAYASAAEgLFR_D_BwE:G:s&s_kwcid=AL!4422!3!646065810184!e!!g!!s3!19610444393!149206261887
+[AWS.CloudFront]: https://img.shields.io/badge/Amazon_AWS_CloudFront-232F3E?style=flat&logo=amazon-web-services&logoColor=white
+[AWS-CloudFront-url]: https://aws.amazon.com/cloudfront/
+[AWS.Serverless.Lambda]: https://img.shields.io/badge/Amazon_AWS_Lambda-232F3E?style=flat&logo=amazon-web-services&logoColor=white
+[AWS-Serverless-Lambda-url]: https://aws.amazon.com/lambda/
+[AWS.DynamoDB]: https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=fff
+[AWS-DynamoDB-url]: https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html
+[AWS.CloudWatch]: https://img.shields.io/badge/Amazon_AWS_CloudWatch-232F3E?style=flat&logo=amazon-web-services&logoColor=white
+[AWS-CloudWatch-url]: https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html
+[OpenAI.GPT4]: https://img.shields.io/badge/OpenAI-%23412991?logo=openai&logoColor=white
+[OpenAI-url]: https://platform.openai.com/docs/overview
+[Langchain]: https://img.shields.io/badge/Framework-Langchain-teal
+[Langchain-url]: https://api.python.langchain.com/en/latest/langchain_api_reference.html
+[Github.Actions]: https://img.shields.io/badge/GitHub_Actions-181717?style=flat&logo=github&logoColor=white
+[GitHub-Actions-url]: https://docs.github.com/en/actions
